@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "re-resizable": "6.9.2",
-    "react-draggable": "4.4.4",
+    "react-draggable": "https://github.com/prometheon/react-draggable.git",
     "tslib": "2.3.1"
   }
 }
