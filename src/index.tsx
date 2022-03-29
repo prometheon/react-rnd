@@ -647,7 +647,7 @@ export class Rnd extends React.PureComponent<Props, State> {
         disabled={disableDragging}
         grid={dragGrid}
         bounds={bounds ? this.state.bounds : undefined}
-        position={pos}
+        // position={pos}
         enableUserSelectHack={enableUserSelectHack}
         cancel={cancel}
         scale={scale}
